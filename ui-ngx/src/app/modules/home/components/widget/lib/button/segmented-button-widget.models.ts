@@ -18,7 +18,7 @@ import { DataToValueType, GetValueAction, GetValueSettings } from '@shared/model
 import { cssUnit, Font } from '@shared/models/widget-settings.models';
 import { defaultWidgetAction, WidgetAction } from '@shared/models/widget.models';
 
-const defaultMainColor = '#305680';
+const defaultMainColor = '#561044';
 const defaultBackgroundColor = '#E8E8E8';
 
 export const defaultMainColorDisabled = 'rgba(0, 0, 0, 0.38)';
